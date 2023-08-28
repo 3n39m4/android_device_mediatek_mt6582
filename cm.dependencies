@@ -1,9 +1,9 @@
 [
   {
-    "repository": "android_device_qcom_common",
-    "target_path": "device/qcom/common"
+    "repository": "3n39m4/android_device_mediatek_mt6582",
+    "target_path": "device/mediatek/mt6582"
   },{
-    "repository": "android_kernel_asus_P024",
-    "target_path": "kernel/asus/P024"
+    "repository": "3n39m4/android_vendor_mediatek_mt6582",
+    "target_path": "vendor/mediatek/mt6582"
   }
 ]
